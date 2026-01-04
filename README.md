@@ -15,7 +15,9 @@
 <p align="center">
   <a href="#rofi">Rofi</a> |
   <a href="#kitty">Kitty</a> |
-  <a href="#alacritty">Alacritty</a>
+  <a href="#alacritty">Alacritty</a> 
+  <br>
+  <a href="#cont">Contributing</a>
 </p>
 <br>
 
@@ -71,7 +73,7 @@ import = [
 
 ---
 
-<h1 align="center">Contributing</h1>
+<h1 align="center" id="cont">Contributing</h1>
 
 Tokali is yours to tweak too. Feel free to open issues, submit PRs, or suggest improvements—more than happy to see what you add!  
 
