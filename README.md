@@ -7,6 +7,7 @@
 <img src="images/colors.png" width="600" />
 </h1>
 
+<h3 align="center">Remember, everything is always better with tranparency and blur ;)</h3>
 ---
 
 <h1 align="center">Navigation</h1>
