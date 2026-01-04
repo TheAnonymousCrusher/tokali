@@ -1,0 +1,54 @@
+# ▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖
+#
+# ▀▛▘▞▀▖▌ ▌▞▀▖▌  ▜▘   ▛▀▖▞▀▖▛▀▖▌ ▌
+#  ▌ ▌ ▌▙▞ ▙▄▌▌  ▐    ▌ ▌▙▄▌▙▄▘▙▞
+#  ▌ ▌ ▌▌▝▖▌ ▌▌  ▐    ▌ ▌▌ ▌▌▚ ▌▝▖
+#  ▘ ▝▀ ▘ ▘▘ ▘▀▀▘▀▘   ▀▀ ▘ ▘▘ ▘▘ ▘
+# A hybrid of Tokyo Night & Kali Dark (and some Catpuccin!)
+# GITHUB: https://github.com/TheAnonymousCrusher/tokali-theme
+#
+# ▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖
+
+[colors.primary]
+background = "#1F2229"
+foreground = "#C0CAF5"
+dim_foreground = "#808080"  # comments / dimmed text
+bright_foreground = "#FFFFFF"
+
+[colors.cursor]
+text = "#1F2229"
+cursor = "#ff77aa"
+
+[colors.selection]
+text = "#FFFFFF"
+background = "#886fac"
+
+[colors.normal]
+black   = "#15161f"
+red     = "#DC143C"
+green   = "#88e868"
+yellow  = "#FCC200"
+blue    = "#367BF0"
+magenta = "#a07ae6"
+cyan    = "#30ab9f"
+white   = "#C0CAF5"
+
+[colors.bright]
+black   = "#4d4d4d"
+red     = "#F7768E"
+green   = "#9ECE6A"
+yellow  = "#f5c27f"
+blue    = "#9abaff"
+magenta = "#d6bfff"
+cyan    = "#3ddbd9"
+white   = "#ff8cbf"
+
+[colors.dim]
+black   = "#15161f"
+red     = "#914f50"
+green   = "#639168"
+yellow  = "#929151"
+blue    = "#646691"
+magenta = "#91658b"
+cyan    = "#67918a"
+white   = "#8b8d9a"
