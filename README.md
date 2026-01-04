@@ -1,6 +1,6 @@
 # Tokali
 
-A sleek Tokyo Night + Kali Dark themed terminal and Rofi setup, customized for maximum chill vibes.  
+A sleek Tokyo Night + Kali Dark inspired theme, customized for maximum chill vibes.  
 
 ![Tokali Colors](images/colors.png)
 
