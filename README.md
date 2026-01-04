@@ -1,9 +1,11 @@
 <h1 align="center">
-<img src="images/tokali.png" width="600" />
+<img src="images/tokali.png" width="800" />
 </h1>
 <p align="center">A sleek Tokyo Night + Kali Dark inspired theme, customized for maximum chill vibes.</p>
 
-![Tokali Colors](images/colors.png)
+<h1 align="center">
+<img src="images/colors.png" width="600" />
+</h1>
 
 ---
 
