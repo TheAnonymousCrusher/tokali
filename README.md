@@ -9,19 +9,20 @@
 
 ---
 
-## Navigation
-- [Rofi](#rofi)
-- [Kitty](#kitty)
-- [Alacritty](#alacritty)
+<h1 align="center">Navigation</h1>
+
+<p align="center">
+  <a href="#rofi">Rofi</a> |
+  <a href="#kitty">Kitty</a> |
+  <a href="#alacritty">Alacritty</a>
+</p>
+<br>
 
 ---
 
-## Rofi
+# Rofi
 
 A dark, stylish theme for Rofi, perfect for late-night browsing and launcher sessions.  
-
-**Configuration file:**  
-`images/rofi.png`  
 
 Copy the theme in this repo to your Rofi config folder or reference it directly in your Rofi config:  
 ```bash
@@ -32,7 +33,7 @@ Copy the theme in this repo to your Rofi config folder or reference it directly 
 
 ---
 
-## Kitty
+# Kitty
 
 A moody, readable terminal theme for Kitty.
 
@@ -49,7 +50,7 @@ include ~/.config/kitty/tokali.conf
 
 ---
 
-## Alacritty
+# Alacritty
 
 A moody, readable terminal theme for Alacritty, inspired by Tokali’s Tokyo Night + Kali Dark vibe.
 
@@ -69,7 +70,7 @@ import = [
 
 ---
 
-## Contributing
+<h1 align="center">Contributing</h1>
 
 Tokali is yours to tweak too. Feel free to open issues, submit PRs, or suggest improvements—more than happy to see what you add!  
 
