@@ -1,6 +1,7 @@
-# Tokali
-
-A sleek Tokyo Night + Kali Dark inspired theme, customized for maximum chill vibes.  
+<h1 align="center">
+<img src="images/tokali.png" width="600" />
+</h1>
+<p align="center">A sleek Tokyo Night + Kali Dark inspired theme, customized for maximum chill vibes.</p>
 
 ![Tokali Colors](images/colors.png)
 
