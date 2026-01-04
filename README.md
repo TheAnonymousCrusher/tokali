@@ -47,4 +47,6 @@ include ~/.config/kitty/tokali.conf
 
 ## Contributing
 
-Tokali is yours to tweak too. Feel free to open issues, submit PRs, or suggest improvements—more than happy to see what you add!
+Tokali is yours to tweak too. Feel free to open issues, submit PRs, or suggest improvements—more than happy to see what you add!  
+
+All theme colors are listed in [colors.txt](./colors.txt) for easy reference, so anyone can port Tokali to other apps or create their own versions.
