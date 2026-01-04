@@ -9,6 +9,7 @@ A sleek Tokyo Night + Kali Dark inspired theme, customized for maximum chill vib
 ## Navigation
 - [Rofi](#rofi)
 - [Kitty](#kitty)
+- [Alacritty](#alacritty)
 
 ---
 
@@ -42,6 +43,26 @@ include ~/.config/kitty/tokali.conf
 ```
 
 ![Kitty Screenshot](images/kitty.png)
+
+---
+
+## Alacritty
+
+A moody, readable terminal theme for Alacritty, inspired by Tokali’s Tokyo Night + Kali Dark vibe.
+
+**Configuration file:**
+
+1. Place `tokali.toml` in your Alacritty themes directory (usually `~/.config/alacritty/themes/`).
+2. Include it in your main `alacritty.toml` by adding:
+
+```toml
+[general]
+import = [
+  "~/.config/alacritty/themes/tokali.toml"
+]
+```
+
+![Alacritty Screenshot](images/alacritty.png)
 
 ---
 
