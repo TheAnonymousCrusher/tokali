@@ -1,0 +1,80 @@
+/*
+# ▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖
+#
+# ▀▛▘▞▀▖▌ ▌▞▀▖▌  ▜▘   ▛▀▖▞▀▖▛▀▖▌ ▌
+#  ▌ ▌ ▌▙▞ ▙▄▌▌  ▐    ▌ ▌▙▄▌▙▄▘▙▞
+#  ▌ ▌ ▌▌▝▖▌ ▌▌  ▐    ▌ ▌▌ ▌▌▚ ▌▝▖
+#  ▘ ▝▀ ▘ ▘▘ ▘▀▀▘▀▘   ▀▀ ▘ ▘▘ ▘▘ ▘
+# A hybrid of Tokyo Night & Kali Dark (and some Catpuccin!)
+# GITHUB: https://github.com/TheAnonymousCrusher/tokali
+#
+# ▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖▄▄▖
+*/
+
+entry {
+    placeholder: "Search...";
+    text-color: #c0caf5;
+    padding: 8px 0 8px 8px;
+}
+
+configuration {
+    /*font: "JetBrainsMono Nerd Font Mono 12";*/
+    font: "URW Gothic 12";
+    lines: 10;
+    fixed-num-lines: true;
+    padding: 10px;
+}
+
+inputbar {
+    children: [entry];
+}
+
+* {
+    separatorcolor: transparent;
+    selected-normal-background: rgba(122,162,247,15%);   /* blue accent */
+    selected-normal-foreground: #c0caf5;
+    normal-background: rgba(31,34,41,0%);                /* background #1F2229 */
+    alternate-normal-background: rgba(31,34,41,0%);
+}
+
+mainbox {
+    border: 2px;
+    border-color: rgba(122,162,247,20%); /* subtle blue border */
+    border-radius: 10px;
+    padding: 10px;
+}
+
+window {
+    border-radius: 11px;
+    border: 1px solid;
+    border-color: #292e42;               /* inactive border tone */
+    background-color: rgba(31,34,41,85%); /* Tokali BG w/ transparency */
+    padding: 0px;
+    width: 30%;
+}
+
+listview {
+    lines: 10;
+}
+
+element {
+    padding: 10px 10px;
+    height: 50px;
+    border-radius: 5px;
+    children: [ element-text, element-icon ];
+}
+
+element-text {
+    text-color: #c0caf5;
+}
+
+element selected {
+    background-color: rgba(122,162,247,15%);  /* soft blue glow */
+    text-color: #ffffff;
+}
+
+#scrollbar {
+    handle-color: #3a3f4a;
+    handle-width: 4px;
+    padding: 0;
+}

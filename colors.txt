@@ -1,0 +1,41 @@
+# Tokali Theme Colors
+# Base colors for terminal and Rofi
+
+# Backgrounds
+BACKGROUND       = #1F2229
+DARK_BACKGROUND  = #15161f
+
+# Foreground
+FOREGROUND       = #C0CAF5
+COMMENT          = #808080
+
+# Primary Colors
+RED              = #DC143C
+ORANGE           = #df8e1d
+YELLOW           = #FCC200
+GREEN            = #88e868
+CYAN             = #30ab9f
+BLUE             = #367BF0
+PURPLE           = #a07ae6
+PINK             = #F7768E
+
+# Bright / Bold Variants
+BRIGHT_RED       = #F7768E
+BRIGHT_ORANGE    = #ffb085
+BRIGHT_YELLOW    = #f5c27f
+BRIGHT_GREEN     = #9ECE6A
+BRIGHT_CYAN      = #3ddbd9
+BRIGHT_BLUE      = #9abaff
+BRIGHT_PURPLE    = #d6bfff
+BRIGHT_PINK      = #ff8cbf
+
+# Accents / Highlights
+SELECTION_BG     = #886fac
+SELECTION_FG     = #Ffffff
+CURSOR           = #ff77aa
+
+TAB_ACTIVE_BG    = #7AA2F7
+TAB_ACTIVE_FG    = #16161E
+TAB_INACTIVE_BG  = #292E42
+TAB_INACTIVE_FG  = #545C7E
+
